@@ -23,7 +23,7 @@ https://public.tableau.com/profile/suellen.maltz#!/vizhome/CitiBike_159370695858
 4. Peak hours during summer and winter.
 5. Ruch hours during the whole year.
 6. Map based on start time
-<br>
+
 ### 1. Number of Trips across time
 There is high usage of citi bike in Summer time, while the usage decreases after September. People are not willing to ride outdoors due to coldness.<br>
 
