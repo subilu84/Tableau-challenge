@@ -1,6 +1,6 @@
 # Tableau-challenge
 
-# Citi Bike Data Visualization 2019 for Jersey city
+# Citi Bike Data Visualization 2019 for Jersey City
 
 ## Data Source: 
 https://s3.amazonaws.com/tripdata/index.html
