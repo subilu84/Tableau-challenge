@@ -24,7 +24,7 @@ https://public.tableau.com/profile/suellen.maltz#!/vizhome/CitiBike_159370695858
 5. Ruch hours during the whole year.
 6. Map based on start time
 
-### 1. Number of Trips across time
+#### 1. Number of Trips across time
 There is high usage of citi bike in Summer time, while the usage decreases after September. People are not willing to ride outdoors due to coldness.<br>
 
 ### 2. The bottom 10 stations for starting and endinga journey.
