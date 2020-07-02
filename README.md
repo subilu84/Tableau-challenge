@@ -1,4 +1,3 @@
-# Tableau-challenge
 
 # Citi Bike Data Visualization 2019 for Jersey City
 
